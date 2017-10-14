@@ -62,13 +62,13 @@ include_once 'headpage.php'
 					<ul class="nav navbar-nav navbar-right">
 						
 						<li class="dropdown">
-							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">Fsdf</a>
+							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
 						</li>
 						<li class="dropdown">
-							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">sdft</a>
+							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">How It Works</a>
 						</li>
 						<li class="dropdown">
-							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">Alshds</a>
+							<a href="#" role="button" aria-haspopup="true" aria-expanded="false">Students</a>
 						</li>
 
 

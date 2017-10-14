@@ -82,12 +82,12 @@ include_once 'header.php';
 								<div class="slide-desc pull-left">
 									<div class="slide-desc-text">
 										
-										<div class="estate-type">proj</div>
-										<div class="transaction-type">sdf</div>
-										<h4>lorems isnfos  fsk fsdf df</h4>
+										<div class="estate-type">Java</div>
+										<div class="transaction-type">SQL</div>
+										<h4>Marty Whelan</h4>
 										<div class="clearfix"></div>
 										
-										<p>asdfsad df d f</p>
+										<p>University : NCI</p>
 									</div>
 									<div class="slide-desc-params">	
 										<div class="slide-desc-area">
@@ -104,7 +104,7 @@ include_once 'header.php';
 										</div>	
 									</div>
 									<div class="slide-desc-price">
-										€ 190 000
+										Location : Dublin
 									</div>		
 									<div class="clearfix"></div>										
 								</div>

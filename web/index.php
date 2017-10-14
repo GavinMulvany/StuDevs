@@ -187,7 +187,7 @@ include_once 'header.php';
 				<div role="tabpanel" class="col-xs-12 adv-search-outer tab-pane fade in active" id="apartments">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-lg-3">
-							<select name="transaction1" class="bootstrap-select" title="Choose Bdfggnt:" multiple>
+							<select name="transaction1" class="bootstrap-select" title="Choose Developer:" multiple>
 								<option>Student</option>
 								<option>Business</option>
 							</select>

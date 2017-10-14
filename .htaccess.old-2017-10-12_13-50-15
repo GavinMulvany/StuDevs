@@ -1,0 +1,2 @@
+
+AddHandler php56-script .php .php5
